@@ -1,0 +1,7 @@
+ro.display.series=Samsung M32
+ro.product.board=k69v1_64_titan_marmot
+ro.board.platform=mt6769t
+sys.usb.controller=musb-hdrc
+ro.boot.dynamic_partitions=true
+#fbe.metadata.wrappedkey=true
+ro.boot.boot_devices=bootdevice,soc/11230000.mmc,11230000.mmc,soc/11270000.ufshci,11270000.ufshci
