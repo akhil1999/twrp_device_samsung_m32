@@ -1,4 +1,5 @@
-# Samsung Galaxy M32 4G SM-M325F/FV TWRP Device Tree
+# Samsung Galaxy M32 4G SM-M325F/FV 
+# TWRP Device Tree
 
 TWRP Device tree for the Samsung Galaxy M32 4G MediaTek
 
@@ -17,10 +18,10 @@ Samsung Galaxy M32 4G MediaTek (m32)
 Basic   | Spec Sheet
 -------:|:-------------------------
 CPU     | Octa-core 6x1.8GHz Cortex-A55 + 2x2.0Ghz Cortex-A75, ARM big.LITTLE
-Chipset | MediaTek Helio G80
-GPU     | ARM Mali G52 MC2
+Chipset | MediaTek Helio G80 (mt6769t)
+GPU     | ARM Mali-G52 MC2
 Memory  | 4 GB / 6 GB / 8 GB
-Shipped Android Version | 11.0
+Shipped Android Version | OneUI 3.1 on top of Android 11.0
 Updated Android Version | N/A
 Storage | 64 GB / 128 GB
 MicroSD | Up to 256 GB
